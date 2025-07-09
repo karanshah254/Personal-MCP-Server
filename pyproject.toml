@@ -1,0 +1,7 @@
+[project]
+name = "own-mcp-server"
+version = "0.1.0"
+description = "Created own mcp server for HR leave management"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
